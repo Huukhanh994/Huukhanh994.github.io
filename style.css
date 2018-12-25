@@ -7,6 +7,6 @@ h1{
     color: red;
 }
 img{
-    background-size: cover;
-    backface-visibility: visible;
+    width: 50%;
+    height: 50%;
 }
