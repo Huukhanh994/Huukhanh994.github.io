@@ -37,7 +37,8 @@ ul li {
 
 .image img {
     position: relative;
-    left: 70px;
+    width: 350px;
+    height: 250px;
 }
 .top{
     display: flex;
